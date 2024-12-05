@@ -3,7 +3,7 @@
 This repository provides a collection of commonly used machine learning models for tasks such as regression, classification, clustering, and dimensionality reduction. It's designed to be a starting point for learning, experimentation, and application in various projects.
 
 # Repository Structure
-
+```
 ├── README.md                   # Overview and documentation
 ├── datasets/                   # Sample datasets for training and evaluation
 ├── models/                     # Custom-trained models and configurations
@@ -12,7 +12,7 @@ This repository provides a collection of commonly used machine learning models f
 │   └── ensemble/               # Ensemble models (e.g., Random Forest, XGBoost)
 ├── requirements.txt            # List of dependencies
 └── utils/                      # Utility functions for data handling and visualization
-
+```
 ## Getting Started
 
 ### Prerequisites
