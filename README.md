@@ -33,7 +33,7 @@ pip create venv
 3. Install dependencies
 pip install -r requirements.txt
 
-## Available Models
+## Developed Models
 
 ### 1. Supervised Learning
     
