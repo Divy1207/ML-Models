@@ -35,29 +35,29 @@ pip install -r requirements.txt
 
 ## Available Models
 
-1. Supervised Learning
+### 1. Supervised Learning
     
-Regression Models:
+#### Regression Models:
     - Linear Regression
     - Ridge and Lasso Regression
     - Decision Trees
     - Support Vector Regression (SVR)
 
-Classification Models:
+#### Classification Models:
     - Logistic Regression
     - K-Nearest Neighbors (KNN)
     - Support Vector Machines (SVM)
     - Decision Trees
     - Naive Bayes
 
-2. Unsupervised Learning
+### 2. Unsupervised Learning
 
-Clustering:
+#### Clustering:
     - K-Means
     - DBSCAN
-Dimensionality Reduction:
+#### Dimensionality Reduction:
     - Principal Component Analysis (PCA)
 
-3. Ensemble Models
+### 3. Ensemble Models
     - Random Forest
     - Gradient Boosting Machines (e.g., XGBoost, LightGBM)
