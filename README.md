@@ -10,8 +10,7 @@ This repository provides a collection of commonly used machine learning models f
 │   ├── supervised/             # Supervised learning models
 │   ├── unsupervised/           # Unsupervised learning models
 │   └── ensemble/               # Ensemble models (e.g., Random Forest, XGBoost)
-├── requirements.txt            # List of dependencies
-└── utils/                      # Utility functions for data handling and visualization
+└── requirements.txt            # Utility functions for data handling and visualization
 ```
 ## Getting Started
 
